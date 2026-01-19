@@ -2,7 +2,7 @@
 	"caption": {
 		"Cn_Simp": "",
 		"en_US": "HDHeroes 3 Reborn",
-		"ru_RU": "HDHeroes 3 Reborn)"
+		"ru_RU": "HDHeroes 3 Reborn"
 	},
 	
 	"description": {
@@ -27,7 +27,7 @@
 		"index": 0
 	},
 	
-	"mod_version": "0.9.2.7",
+	"mod_version": "0.9.2.9",
 	
 	"priority": 1,
 	
