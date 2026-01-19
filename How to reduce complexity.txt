@@ -1,0 +1,4 @@
+Two files are responsible for the increased complexity, which are located in:
+F:\Heroes 3\HD Edition+Fix+ai (En)\Data\S
+- AI.em
+-sufficient neutral_status of the balance.

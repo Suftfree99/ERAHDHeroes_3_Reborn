@@ -1,0 +1,51 @@
+{
+	"caption": {
+		"Cn_Simp": "",
+		"en_US": "HDHeroes 3 Reborn (ENG-RU)",
+		"ru_RU": "HDHeroes 3 Reborn (ENG-RU)"
+	},
+	
+	"description": {
+		"full": {
+			"Cn_Simp": "",
+			"en_US": "description.txt",
+			"ru_RU": "description_rus.txt"
+		},
+		"short": {
+			"Cn_Simp": "",
+			"en_US": "",
+			"ru_RU": ""
+		}
+	},
+	
+	"author": "Suft, Berserker, Grossmaster",
+	
+	"homepage": "http://wforum.heroes35.net/showthread.php?tid=5821",
+	
+	"icon": {
+		"file": "icon.ico",
+		"index": 0
+	},
+	
+	"mod_version": "0.9.2.7",
+	
+	"priority": 1,
+	
+	"compatibility": {
+    "incompatible": [
+    "Random wallpaper",
+	"Enhanced Henchmen",
+	"Knightmare Kingdoms",
+	"Land Of New Towns",
+	"More Battlefields",
+	"TUM Enchanted",
+	"Vivid Dwelling Battlefields",
+	"ResOunD",
+    ]
+	},
+	
+	"platform": "era",
+	"info_version": "3.3.x",
+	"plugins": {},
+	"category": "gameplay"
+}
