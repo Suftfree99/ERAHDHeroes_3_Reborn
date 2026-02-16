@@ -1,15 +1,19 @@
 Mod for HD graphics 32 bit + AI
 /// Detailed information about the mod:
 - Video menu.
-- A mod that expands the number of battlefields to 327 variations of the battlefield in HD quality. 157 of them are mirror images of fields. (To work, you need to enable the script for new battlefields).
+- HD Random battlefields is a mod that expands the number of battlefields to 327 battlefield variations. 157 of them are mirror images of fields. (To work, you need to enable the script for new battlefields).
 - Script for improved AI.
 - Music mod for 74 additional tracks from 3DO (1-4 parts of Heroes).
 - Built-in custom version of WoG Graphics Fix.
-- Basic archive with HD textures.
-Recommended game - 1507x848 - SmoothSal x2 + linear sharper.(2 GB of Video memory)...
-3-4K HD_Launcher monitors.
+- Archives with edited HD textures.
+- HD Interface.
+/// It is advisable to install Hd mod filters - A resolution less than 1507x848 will give a fuzzy, soapy picture.
+- For a weak graphics card - 1507x848 - SmoothSal x2 + linear sharper.
+- For strong - 1507x848 - Brz x3-4 + linear sharper.
+- F4 will expand the game to full screen with upscale.
+///3-4K HD_Launcher monitors.
 The resolution is at least 1752x986-1920x1080.
-- xBRZ 3-4 + linear sharper.
+- xBRZ 4 + linear sharper.
 The mod's homepage: http://wforum.heroes35.net/showthread.php?tid=5821&page=1
 You can enable the desired localization (ENG-RU) by deleting the archive from Ru or ENG along the way.
-HD Edition+fix+ai (ENG-RU)\Data H3HDlocalization RU-ENG.
+The folder with the mod\Data\H3HDlocalization RU-ENG.
