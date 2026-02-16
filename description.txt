@@ -3,8 +3,8 @@ Mod for HD graphics 32 bit + AI
 - Video menu.
 - HD Random battlefields is a mod that expands the number of battlefields to 327 battlefield variations. 157 of them are mirror images of fields. (To work, you need to enable the script for new battlefields).
 - Script for improved AI.
-- Music mod for 74 additional tracks from 3DO (1-4 parts of Heroes).
-- Built-in custom version of WoG Graphics Fix.
+- 3DO Music Pack 74 additional tracks from 3DO (1-4 parts of Heroes).
+- WoG Graphics Fix is a custom version.
 - Archives with edited HD textures.
 - HD Interface.
 /// It is advisable to install Hd mod filters - A resolution less than 1507x848 will give a fuzzy, soapy picture.
