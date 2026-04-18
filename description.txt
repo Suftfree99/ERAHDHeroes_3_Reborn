@@ -1,4 +1,5 @@
 Mod for HD graphics 32 bit + AI
+Disable the Random wallpaper mod.
 /// Detailed information about the mod:
 - Video menu.
 - HD Random battlefields is a mod that expands the number of battlefields to 327 battlefield variations. 157 of them are mirror images of fields. (To work, you need to enable the script for new battlefields).
