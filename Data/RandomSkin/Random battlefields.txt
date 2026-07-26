@@ -62,6 +62,10 @@ BkGr00_4.pcx
 BkGr00_4_m.pcx
 BkGr00_5.pcx
 BkGr00_5_m.pcx
+BkGr00_6.pcx
+BkGr00_6_m.pcx
+BkGr00_7.pcx
+BkGr00_7_m.pcx
 *
 BkGr01.pcx
 BkGr01_m.pcx
@@ -122,6 +126,8 @@ BkGr10_3.pcx
 BkGr10_3_m.pcx
 BkGr10_4.pcx
 BkGr10_4_m.pcx
+BkGr10_5.pcx
+BkGr10_5_m.pcx
 *
 BkGr11.pcx
 BkGr11_m.pcx
@@ -133,6 +139,10 @@ BkGr11_3.pcx
 BkGr11_3_m.pcx
 BkGr11_4.pcx
 BkGr11_4_m.pcx
+BkGr11_5.pcx
+BkGr11_5_m.pcx
+BkGr11_6.pcx
+BkGr11_6_m.pcx
 *
 BkGr12.pcx
 BkGr12_m.pcx
@@ -173,6 +183,8 @@ BkGr21_1.pcx
 BkGr21_1_m.pcx
 BkGr21_2.pcx
 BkGr21_2_m.pcx
+BkGr21_3.pcx
+BkGr21_3_m.pcx
 *
 BkGr22.pcx
 BkGr22_m.pcx
@@ -230,6 +242,10 @@ BkGr32_2.pcx
 BkGr32_2_m.pcx
 BkGr32_3.pcx
 BkGr32_3_m.pcx
+BkGr32_4.pcx
+BkGr32_4_m.pcx
+BkGr32_5.pcx
+BkGr32_5_m.pcx
 *
 BkGr33.pcx
 BkGr33_m.pcx
@@ -258,6 +274,8 @@ BkGr40_4.pcx
 BkGr40_4_m.pcx
 BkGr40_5.pcx
 BkGr40_5_m.pcx
+BkGr40_6.pcx
+BkGr40_6_m.pcx
 *
 BkGr41.pcx
 BkGr41_m.pcx
@@ -327,6 +345,8 @@ BkGr51_3.pcx
 BkGr51_3_m.pcx
 BkGr51_4.pcx
 BkGr51_4_m.pcx
+BkGr51_5.pcx
+BkGr51_5_m.pcx
 *
 BkGr52.pcx
 BkGr52_m.pcx
@@ -334,6 +354,8 @@ BkGr52_1.pcx
 BkGr52_1_m.pcx
 BkGr52_2.pcx
 BkGr52_2_m.pcx
+BkGr52_3.pcx
+BkGr52_3_m.pcx
 *
 BkGr53.pcx
 BkGr53_m.pcx
@@ -342,6 +364,8 @@ BkGr60.pcx
 BkGr60_m.pcx
 BkGr60_1.pcx
 BkGr60_1_m.pcx
+BkGr60_2.pcx
+BkGr60_2_m.pcx
 *
 BkGr61.pcx
 BkGr61_m.pcx
@@ -417,6 +441,8 @@ BkGr75_1.pcx
 BkGr75_1_m.pcx
 BkGr75_2.pcx
 BkGr75_2_m.pcx
+BkGr75_3.pcx
+BkGr75_3_m.pcx
 *
 BkGr76.pcx
 BkGr76_m.pcx
@@ -445,9 +471,13 @@ CmBkEF_1.pcx
 CmBkEF_1_m.pcx
 CmBkEF_2.pcx
 CmBkEF_2_m.pcx
+CmBkEF_3.pcx
+CmBkEF_3_m.pcx
 *
 CmBkFF.pcx
 CmBkFF_m.pcx
+CmBkFF_1.pcx
+CmBkFF_1_m.pcx
 *
 CmBkHG.pcx
 CmBkHG_m.pcx
@@ -457,6 +487,10 @@ CmBkHG_2.pcx
 CmBkHG_2_m.pcx
 CmBkHG_3.pcx
 CmBkHG_3_m.pcx
+CmBkHG_4.pcx
+CmBkHG_4_m.pcx
+CmBkHG_5.pcx
+CmBkHG_5_m.pcx
 *
 CmBkLP.pcx
 CmBkLP_m.pcx
@@ -477,6 +511,8 @@ CmBkMag_2.pcx
 CmBkMag_2_m.pcx
 CmBkMag_3.pcx
 CmBkMag_3_m.pcx
+CmBkMag_4.pcx
+CmBkMag_4_m.pcx
 *
 CmBkMC.pcx
 CmBkMC_m.pcx
@@ -484,6 +520,8 @@ CmBkMC_1.pcx
 CmBkMC_1_m.pcx
 CmBkMC_2.pcx
 CmBkMC_2_m.pcx
+CmBkMC_3.pcx
+CmBkMC_3_m.pcx
 *
 CMBKBCH.pcx
 CMBKBCH_m.pcx
@@ -492,3 +530,8 @@ CMBKBCH_1_m.pcx
 *
 CMBKBOAT.pcx
 CMBKBOAT_m.pcx
+*
+CmBkCF.pcx
+CmBkCF_m.pcx
+CmBkCF_1.pcx
+CmBkCF_1_m.pcx
