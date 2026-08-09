@@ -1,0 +1,13 @@
+{
+    "suft": {
+        "combat":{
+            "siege":{
+                "arrow_tower":{
+                    "damage": 3.0
+                },
+                "walls":{
+                    "health_points_multiplier": 5.0
+                }
+            }
+        }
+}
